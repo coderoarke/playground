@@ -2,4 +2,4 @@ playground
 ==========
 
 playground for learning web dev technologies
-I am adding more text here
+get up in this with me
